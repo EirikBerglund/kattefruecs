@@ -7,6 +7,8 @@ pageClass: custom-page-class
 
 Velkommen til Kattefrue.no. Dette er bloggen hvor jeg deler livet mitt med trening og katter.
 
+<img src="https://i.kinja-img.com/gawker-media/image/upload/s--_eDWsK1V--/c_scale,f_auto,fl_progressive,q_80,w_800/omnt5whbwqw1z0115pri.jpg" />
+
 ## Alle liker katter
 
 Det er fakta. Sjekk denne wikipediasiden: <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Her</a>.
@@ -34,6 +36,8 @@ For selv om de to eldste har ulike organiserte aktiviteter flere ganger i uken, 
 Noen som er av samme oppfatning eller har andre tanker om katter og aktivitet?
 
 SS
+
+<img src="https://www.petmd.com/sites/default/files/adult-homeless-cat-asking-for-food-picture-id847415388.jpg" />
 
 ### 19. september 2019
 
@@ -65,3 +69,5 @@ Stek squashen i litt olivenolje og hvitløk. Tilsett fløte og pesto og la det s
 Stekes i ca- 15-20 minutter midt i ovnen!
 
 Buon appetito♥
+
+<img src="https://sm.mashable.com/t/mashable_sea/feature/e/everything/everything-you-need-to-know-about-captain-marvels-cat_hgyd.910.jpg">
